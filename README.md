@@ -1,3 +1,14 @@
+## Profile
+This is simple single page resume application created using React Js.
+
+The project uses the context api as global state declarer so that we can access state my any component instead of passing state from one component to other and so on.
+
+[Bootstrap 4](https://getbootstrap.com/) is used for CSS Styling.
+
+### [View my profile](https://jaygala24.github.io/profile/)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
