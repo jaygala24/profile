@@ -15,9 +15,13 @@ class App extends Component {
       <Provider>
         <div className="container">
             <Contacts />
+            <br />
             <Skills />
+            <br />
             <Events />
+            <br />
             <Educations />
+            <br />
             <Interests />
         </div>
       </Provider>
